@@ -1,4 +1,5 @@
 - url: https://twitter.com/i/web/status/1536383036258160641
   output: shot.png
   height: 250
+  width: 544
   wait: 4000
